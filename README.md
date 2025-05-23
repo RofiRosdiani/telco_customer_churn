@@ -165,8 +165,6 @@ Berikut merupakan visualisasi numerikal data
 ## **VI. Modeling and Evaluation**
 Algoritma yang digunakan:
 
-Berikut ringkasan cara kerja masing-masing algoritma klasifikasi:
-
 **1. Logistic Regression** :
 Menghitung kombinasi linier dari fitur dan mengubahnya menjadi probabilitas dengan fungsi sigmoid. Klasifikasi ditentukan berdasarkan threshold (biasanya 0.5).
 
