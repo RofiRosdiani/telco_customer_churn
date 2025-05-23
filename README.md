@@ -151,9 +151,9 @@ Berikut merupakan visualisasi numerikal data
 3. Bivariate Analysis (Melihat Hubungan antar Feature terhadap Target (Churn))
 
 4. Melakukan Uji-Statistik terhadap Fiture Numerikal
-- Analisis hubungan lama berlangganan *(tenure)* terhadap kemungkinan pelanggan melakukan churn | Korelasi Spearman
-- Analisis hubungan jenis kontrak terhadap probabilitas pelanggan berhenti berlangganan *(churn)* | Korelasi Spearman
-- Analisis perbedaan signifikan rata-rata tagihan bulanan *(MonthlyCharges)* antara pelanggan yang churn dan yang tidak | Mann-Whitney U Test
+    - Analisis hubungan lama berlangganan *(tenure)* terhadap kemungkinan pelanggan melakukan churn | Korelasi Spearman
+    - Analisis hubungan jenis kontrak terhadap probabilitas pelanggan berhenti berlangganan *(churn)* | Korelasi Spearman
+    - Analisis perbedaan signifikan rata-rata tagihan bulanan *(MonthlyCharges)* antara pelanggan yang churn dan yang tidak | Mann-Whitney U Test
 
 
 ## **V. Data Preprocessing**
