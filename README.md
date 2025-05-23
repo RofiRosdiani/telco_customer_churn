@@ -213,6 +213,9 @@ Informasi dari confusion matrix pada test set :
 - Jumlah customer yang diprediksi akan churn sebanyak 336 + 447 = 783 orang
 - Jumlah customer yang diprediksi tidak akan churn sebanyak 38 + 586 = 624 orang
 
+Berdasarkan hasil evaluasi :
+- Recall : Dari total customer yang aslinya churn, 90% yang berhasil diprediksi dengan benar.
+
 #### **Feature Coefficients** 
 
 **Analisis Odds Ratio Churn Pelanggan**
