@@ -8,23 +8,23 @@
 
 ### **Content**
 
-I. Business Problem Understanding
+1. Business Problem Understanding
 
-II. Data Understanding
+2. Data Understanding
 
-III. Data Cleaning
+3. Data Cleaning
 
-IV. Data Analysis
+4. Data Analysis
 
-V. Data Preprocessing
+5. Data Preprocessing
 
-VI. Modeling and Evaluation
+6. Modeling and Evaluation
 
-VII. Conclusion
+7. Conclusion
 
-VIII. Recommendation
+8. Recommendation
 
-IX. Business Implementation
+9. Business Implementation
 
 ## **I. Business Problem Understanding**
 #### **Context**
